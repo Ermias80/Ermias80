@@ -5,9 +5,7 @@
   🌍 Passionate about solving real-world problems with clean, scalable code
 </p>
 
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="banner" style="width:100%; max-height:300px;" />
-</p>
+
 
 ---
 
